@@ -1,0 +1,41 @@
+body{
+	background-color: transparent;
+}
+
+.container {
+	margin-left: 10px;
+}	   
+
+#settingsForm input[type="text"]{
+	height: 30px;
+	width: 500px;
+} 	
+
+
+/* Setting page */
+.container input[type="text"]{
+	height: 30px;
+}
+
+#accounts_paginate a{
+	padding: 10px;
+}
+
+/* videos page */
+#videosTable_paginate a{
+	padding: 10px;
+}
+
+#videoForm .textAreaShortDesc{
+	width: 380px;
+	height: 150px;
+}
+
+#videoForm .textVideoForm{
+	width: 380px;
+}
+
+/* players page */
+#players_paginate a{
+	padding: 10px;
+}
