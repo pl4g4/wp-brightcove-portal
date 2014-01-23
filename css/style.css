@@ -39,3 +39,7 @@ body{
 #players_paginate a{
 	padding: 10px;
 }
+
+ul, ol{
+	margin-left: 0px !important;
+}
