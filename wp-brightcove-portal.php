@@ -3,7 +3,7 @@
 Plugin Name: WP Brightcove Portal
 Plugin URI: 
 Description:Brightcove Portal will help you to add your brightcove videos to wordress from different brightcove accounts. Also you will be able to edit/delete videos from your brightcove account. 
-Version: 1.0 
+Version: 1.1 
 Author: Pl4g4
 Author URI: 
 */
